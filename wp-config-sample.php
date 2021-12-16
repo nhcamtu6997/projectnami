@@ -83,15 +83,6 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-// SMTP email settings
-define( 'SMTP_USER', 'test.tun@outlook.com' );
-define( 'SMTP_PASS', 'Vwf08V!re2rcqhfR7h' );
-define( 'SMTP_HOST', 'smtp.office365.com' );
-define( 'SMTP_FROM', 'test.tun@outlook.com' );
-define( 'SMTP_NAME', 'Ticketing System Care' );
-define( 'SMTP_PORT', '587' );
-define( 'SMTP_SECURE', 'tls' );
-define( 'SMTP_AUTH', true );
 
 /* That's all, stop editing! Happy publishing. */
 
